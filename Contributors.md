@@ -156,6 +156,7 @@ _ Jay Kim
 - [Kunal Puri](https://github.com/kunalpuri)
 - Cody Dullard
 - [Clement Sam](https://github.com/profclems)
+- [Akash Dwivedi](https://github.com/bunnysworld)
 - JAYATI SHRIVASTAVA
 - [sixlim](https://github.com/sixlim)
 - [Nameet Nayak](https://github.com/nayaknameet)
